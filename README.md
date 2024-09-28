@@ -26,3 +26,7 @@ cat /<nome_do_arquivo>.pub
 Copie a chave.
 
 Agora, pegue os dois arquivos gerados do SSH e coloque em uma pasta no SAS Viya...
+
+## Referência
+
+https://communities.sas.com/t5/SAS-Communities-Library/How-to-Clone-a-GitHub-Repository-in-SAS-Studio-Using-SSH/ta-p/872728
