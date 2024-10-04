@@ -11,7 +11,7 @@ Passo 2
 Pass 3
 No Terminal digite o seguinte comando:
 
-```ssh
+```bash
 ssh-keygen -t ecdsa -b 521 -C 'your_email@domain.com'
 ```
 
@@ -19,7 +19,7 @@ Depois, ele irá para você dar um nome ao seu arquivo ```ssh```. No meu caso eu
 
 Agora, você precisará let a chave. Use então esse comando:
 
-```ssh
+```bash
 cat /<nome_do_arquivo>.pub
 ```
 
